@@ -70,9 +70,9 @@ npm start
 
 ## 📺 Demo & Video
 
-[![Watch the video](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the video](https://github.com/Jimmyvrushabh/BloggingPlatform2/blob/main/bloggingwebsite.mkv)
 
-🎬 Click **[here](https://www.youtube.com/watch?v=your-video-id)** to watch the demo!  
+🎬 Click **[here]((https://github.com/Jimmyvrushabh/BloggingPlatform2/blob/main/bloggingwebsite.mkv))** to watch the demo!  
 
 ---
 
